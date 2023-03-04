@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    padding: 50px 9rem;
+        background-color: #F3F3F3;
+}
+.logo{
+    float: left;
+    width: 15%;
+}
+.logo img{
+    width: 100%;
+}
+.navbar{
+    width: 70%;
+    text-align: center;
+    margin-top: 15px;
+    display: inline;
+    padding-left: 100px;
+    font-family: Montserrat,sans-serif;
+}
+.navbar a{
+    text-decoration: none;
+    color: black;
+    margin-right: 30px;
+}
+.navbar a:hover{
+    text-decoration: underline;
+    color: gray;
+    transition-duration: 2s;
+}
+.icons{
+    float: right;
+    width: 15%;
+}
+.icons i{
+    margin-left: 20px;
+}
+.icons i:hover{
+    color: orange;
+}
+.icons span{
+    margin-left: 20px;
+}
+.first{
+    margin-top: 20px;
+}
+.navbar2{
+     width: 70%;
+    text-align: center;
+    margin-top: 15px;
+    display: inline;
+    padding-left: 100px;
+    font-family: Montserrat,sans-serif;
+}
+.navbar2 a{
+    text-decoration: none;
+    color: black;
+    margin-right: 30px;
+}
+.navbar2 a:hover{
+    color:rgba(255, 166, 0, 0.465);
+}
+.image{
+    float: left;
+    width: 21%;
+}
+.image img{
+    width: 70%;
+    margin-left: 150px;
+    margin-top: 30px;
+}
+.image h6,p{
+    text-align: center;
+  margin-left: 180px;
+}
+.image p{
+    color:rgba(105, 105, 105, 0.336);
+}
+.image:hover{
+     transform: scale(1.1);
+     transition-duration: 0.5s;
+
+}
+
+
+
+
+
+
+
+
+
+
